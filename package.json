@@ -2,7 +2,7 @@
   "name": "easy-docs",
   "description": "Documentation builder utilizing jsdoc parser.",
   "author": "Jarid Margolin <jarid@firstopinion.co>",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/easy-js/easy-docs",
   "repository": {
     "type": "git",
